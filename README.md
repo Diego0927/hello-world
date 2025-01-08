@@ -9,3 +9,5 @@ Este es un cambio implementado desde el editor de GitHub
 Continuaremos informando...
 
 Segundo cambio desde el editor de GitHub para utilizar pull
+
+Una nueva rama para implementar desde local a remoto
